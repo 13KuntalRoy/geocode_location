@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:core';
 import 'dart:io';
-import '../geocoder_location.dart';
+import '../model.dart';
 import 'base.dart';
 
 /// Geocoding and reverse geocoding through requests to Google APIs.

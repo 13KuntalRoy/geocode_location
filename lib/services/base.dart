@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import '../geocoder_location.dart';
+import '../model.dart';
 
 abstract class Geocoding {
   /// Search corresponding addresses from given [coordinates].
